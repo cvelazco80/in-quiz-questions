@@ -150,18 +150,18 @@
     Print on Both Sides
     Uncollated
     Print One-sided
-    Collated
+   = Collated
 
 #### Q20. How can you adjust which data in a table is used when working on a chart?
 
     Click the Switch Row/Column button.
     Click the Refresh Data button.
     Click the Select Data button.
-    Click the Edit Data button.
+    = Click the Edit Data button.
 
 #### Q21. Which view lets you see additional information on a second monitor when delivering a presentation?
 
     Normal view
     Reading view
     Slide Sorter view
-    Presenter view
+   = Presenter view
